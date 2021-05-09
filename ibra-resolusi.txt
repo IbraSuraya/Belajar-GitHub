@@ -1,0 +1,6 @@
+- Machine Learning
+- Dasar AWS
+- JavaScript
+- Python
+- C
+- Arduino
