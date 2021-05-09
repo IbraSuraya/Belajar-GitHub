@@ -1,7 +1,9 @@
 - Machine Learning
 - Dasar AWS
+  ^ AWS Resmi
+  ^ Indonesia Belajar
 - JavaScript
 - Python
-- C
 - Arduino
 - Bikin Papan PCD
+- C++
