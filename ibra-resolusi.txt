@@ -1,7 +1,10 @@
 - Machine Learning
 - Dasar AWS
+  ^ Dari Dicoding
+  ^ AWS Resmi
 - JavaScript
 - Python
+- HTML dan CSS
 - C
 - Arduino
 - Bikin Papan PCD
